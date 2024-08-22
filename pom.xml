@@ -50,10 +50,10 @@ under the License.
     </modules>
 
     <properties>
-        <flink.version>1.18.0</flink.version>
-        <kafka.version>3.4.0</kafka.version>
-        <zookeeper.version>3.7.2</zookeeper.version>
-        <confluent.version>7.4.4</confluent.version>
+        <flink.version>1.19.1</flink.version>
+        <kafka.version>3.6.2</kafka.version>
+        <zookeeper.version>3.8.4</zookeeper.version>
+        <confluent.version>7.6.2</confluent.version>
 
         <jackson-bom.version>2.15.2</jackson-bom.version>
         <junit4.version>4.13.2</junit4.version>
